@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1050,
+    "first": "Austin",
+    "last": "Stone",
+    "title": "Co-Founder",
+    "company": "Beck & Stone",
+    "website": "https://beckandstone.com",
+    "company_linkedin": "http://www.linkedin.com/company/beck-&-stone",
+    "industry": "management consulting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1051,
+    "first": "Ron",
+    "last": "Crabtree",
+    "title": "Partner: United States",
+    "company": "IXPA Global Executive Solutions",
+    "website": "https://ixpa-interim.com",
+    "company_linkedin": "http://www.linkedin.com/company/ixpa---international-executive-provider-alliance",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1052,
+    "first": "Kimberley",
+    "last": "Rice",
+    "title": "Partner, North America & International Engagements",
+    "company": "AIKON Partners",
+    "website": "https://aikonpartners.com",
+    "company_linkedin": "http://www.linkedin.com/company/aikon-partners",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1053,
+    "first": "Wayne",
+    "last": "N",
+    "title": "Chief Executive Officer",
+    "company": "Saros Inc",
+    "website": "https://saros-inc.com",
+    "company_linkedin": "http://www.linkedin.com/company/sarosinc",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1054,
+    "first": "Richard",
+    "last": "Warner",
+    "title": "Chief Executive Officer",
+    "company": "The Lindquist Group",
+    "website": "https://thelindquistgroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-lindquist-group",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1055,
+    "first": "Toni",
+    "last": "Harrison",
+    "title": "President & CEO",
+    "company": "Etched Communication",
+    "website": "https://etchedcomm.com",
+    "company_linkedin": "http://www.linkedin.com/company/etched-communication",
+    "industry": "public relations & communications",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1056,
+    "first": "Kristina",
+    "last": "Hall",
+    "title": "Founder",
+    "company": "Hall Social",
+    "website": "https://hallsocialmedia.com",
+    "company_linkedin": "http://www.linkedin.com/company/hall-social",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1057,
+    "first": "Gary",
+    "last": "Reloj",
+    "title": "Founder",
+    "company": "Masaya",
+    "website": "https://masaya.io",
+    "company_linkedin": "http://www.linkedin.com/company/masaya-io",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1058,
+    "first": "Mike",
+    "last": "Carter",
+    "title": "Co Founder",
+    "company": "Change Recruitment",
+    "website": "https://changerecruitment.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/change-recruitment",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "Australia"
+  },
+  {
+    "idx": 1059,
+    "first": "Keith",
+    "last": "Urban",
+    "title": "Managing Partner",
+    "company": "Greenlane Marketing",
+    "website": "https://greenlanemarketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/greenlane-marketing",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  }
+]

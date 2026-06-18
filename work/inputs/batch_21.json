@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1210,
+    "first": "Britta",
+    "last": "Plyler",
+    "title": "Chief Operating Officer",
+    "company": "Aroluxe",
+    "website": "https://aroluxe.com",
+    "company_linkedin": "http://www.linkedin.com/company/aroluxe",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1211,
+    "first": "Joe",
+    "last": "Herrera",
+    "title": "Partner",
+    "company": "Underdog Strategies",
+    "website": "https://underdogstrategies.com",
+    "company_linkedin": "http://www.linkedin.com/company/underdogstrategies",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1212,
+    "first": "Veselin",
+    "last": "Karakashev",
+    "title": "Partner",
+    "company": "eCom2Win Agency",
+    "website": "https://ecom2win.com",
+    "company_linkedin": "http://www.linkedin.com/company/ecom2win",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Bulgaria"
+  },
+  {
+    "idx": 1213,
+    "first": "Lucy",
+    "last": "Schultze",
+    "title": "Founder + CEO",
+    "company": "Red Window Communications",
+    "website": "https://redwindowcommunications.com",
+    "company_linkedin": "http://www.linkedin.com/company/red-window-communications",
+    "industry": "public relations & communications",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1214,
+    "first": "Robert",
+    "last": "Gaudian",
+    "title": "Founder and CEO",
+    "company": "The Public Service Network",
+    "website": "https://publicservicenetwork.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-public-service-network",
+    "industry": "public relations & communications",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1215,
+    "first": "Rachel",
+    "last": "Cutrer",
+    "title": "CEO",
+    "company": "Ranch House Designs, Inc.",
+    "website": "https://ranchhousedesigns.com",
+    "company_linkedin": "http://www.linkedin.com/company/ranch-house-designs-inc.",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1216,
+    "first": "Martin",
+    "last": "Leonard",
+    "title": "Chief Executive Officer",
+    "company": "CitCom.",
+    "website": "https://citcom.co.uk",
+    "company_linkedin": "http://www.linkedin.com/company/citcomcreative",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1217,
+    "first": "David",
+    "last": "Johnson",
+    "title": "CEO",
+    "company": "Aroluxe",
+    "website": "https://aroluxe.com",
+    "company_linkedin": "http://www.linkedin.com/company/aroluxe",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1218,
+    "first": "Lauren",
+    "last": "Katz",
+    "title": "Chief Operations Officer",
+    "company": "Sparq Designs",
+    "website": "https://sparqdesigns.com",
+    "company_linkedin": "http://www.linkedin.com/company/sparqdesigns",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1219,
+    "first": "Kalita",
+    "last": "Pillonetto",
+    "title": "Vice CEO",
+    "company": "GetNuva",
+    "website": "https://getnuva.com",
+    "company_linkedin": "http://www.linkedin.com/company/getnuva",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  }
+]

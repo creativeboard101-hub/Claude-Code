@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1010,
+    "first": "Quinten",
+    "last": "Kasch",
+    "title": "Chief Operating Officer",
+    "company": "Strega Entertainment Group",
+    "website": "https://stregagroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/stregaentertainmentgroup",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "Belgium"
+  },
+  {
+    "idx": 1011,
+    "first": "Vergine",
+    "last": "Melkonyan",
+    "title": "CEO & Founder at LinkGenie",
+    "company": "LinkGenie",
+    "website": "https://linkgenie.click",
+    "company_linkedin": "http://www.linkedin.com/company/linksgenie",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "Armenia"
+  },
+  {
+    "idx": 1012,
+    "first": "Aska",
+    "last": "Matsumiya",
+    "title": "Composer / CEO of BW cat Music",
+    "company": "Black Cat White Cat Music",
+    "website": "https://bwcatmusic.com",
+    "company_linkedin": "http://www.linkedin.com/company/black-cat-white-cat",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1013,
+    "first": "Teresa",
+    "last": "Filipe",
+    "title": "Recruitment Partner",
+    "company": "Resonate Search Group",
+    "website": "https://resonatesearchgroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/resonate-search-group",
+    "industry": "staffing & recruiting",
+    "employees": "14",
+    "country": "Canada"
+  },
+  {
+    "idx": 1014,
+    "first": "Shawn",
+    "last": "Wilkie",
+    "title": "Chief Operating Officer",
+    "company": "High10 Digital",
+    "website": "https://high10digital.com",
+    "company_linkedin": "http://www.linkedin.com/company/high10digital",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1015,
+    "first": "Jill",
+    "last": "Osterhout",
+    "title": "CEO",
+    "company": "KCO Resource Management",
+    "website": "https://kcoresource.com",
+    "company_linkedin": "http://www.linkedin.com/company/kcorecruiting",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1016,
+    "first": "Irfaan",
+    "last": "Azizi",
+    "title": "Chief Executive Officer",
+    "company": "Avello Inc",
+    "website": "https://avelloinc.ca",
+    "company_linkedin": "http://www.linkedin.com/company/avello-inc",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "Canada"
+  },
+  {
+    "idx": 1017,
+    "first": "Ben",
+    "last": "Sojka",
+    "title": "Partner | Co-Founder | NSW Commercial Construction Recruitment",
+    "company": "ATLAS Recruitment AU",
+    "website": "https://atlasrecruitment.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/atlas-recruitment-au",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "Australia"
+  },
+  {
+    "idx": 1018,
+    "first": "Dolly",
+    "last": "Oza",
+    "title": "Founder & President",
+    "company": "PrePaid-USA",
+    "website": "https://prepaid-usa.com",
+    "company_linkedin": "http://www.linkedin.com/company/prepaid-usa",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1019,
+    "first": "Christopher",
+    "last": "Castro",
+    "title": "Founding Partner",
+    "company": "Nextera Search",
+    "website": "https://nexterasearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/nextera-search",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  }
+]

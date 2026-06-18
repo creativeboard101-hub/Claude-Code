@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1200,
+    "first": "John",
+    "last": "Weede",
+    "title": "Owner",
+    "company": "Express Employment Professionals San Diego",
+    "website": "https://expresspros.com",
+    "company_linkedin": "http://www.linkedin.com/company/express-employment-professionals-san-diego",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1201,
+    "first": "Foster",
+    "last": "Daly",
+    "title": "Co-Founder",
+    "company": "Annecy",
+    "website": "https://annecyagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/annecy",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1202,
+    "first": "Josh",
+    "last": "Crofford",
+    "title": "Managing Partner",
+    "company": "The Walraven Company",
+    "website": "https://walravenco.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-walraven-company",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1203,
+    "first": "Chris",
+    "last": "Aretta",
+    "title": "Co-Founder / Partner",
+    "company": "Real8 Group",
+    "website": "https://real8group.com",
+    "company_linkedin": "http://www.linkedin.com/company/real8-group-llc",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1204,
+    "first": "Zoe",
+    "last": "Kahn",
+    "title": "CEO",
+    "company": "Inevitable Agency",
+    "website": "https://inevitableagency.co",
+    "company_linkedin": "http://www.linkedin.com/company/inevitable-agency",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1205,
+    "first": "Rohan",
+    "last": "Sanderson",
+    "title": "CEO",
+    "company": "Carroll and Richardson Flagworld",
+    "website": "https://flagworld.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/carroll-and-richardson-flagworld",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "Australia"
+  },
+  {
+    "idx": 1206,
+    "first": "Ryan",
+    "last": "Lynch",
+    "title": "Co-CEO & Co-Owner",
+    "company": "Beardwood",
+    "website": "https://beardwood.com",
+    "company_linkedin": "http://www.linkedin.com/company/beardwood&co._2",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1207,
+    "first": "Keaton",
+    "last": "Wright",
+    "title": "Founder",
+    "company": "Target Continuum",
+    "website": "https://targetcontinuum.com",
+    "company_linkedin": "http://www.linkedin.com/company/targetcontinuum",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1208,
+    "first": "Josh",
+    "last": "Weiss",
+    "title": "President and Founder",
+    "company": "10 to 1 Public Relations",
+    "website": "https://10to1pr.com",
+    "company_linkedin": "http://www.linkedin.com/company/10to1pr",
+    "industry": "public relations & communications",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1209,
+    "first": "Gini",
+    "last": "Dietrich",
+    "title": "Founder and CEO",
+    "company": "Spin Sucks",
+    "website": "https://spinsucks.com",
+    "company_linkedin": "http://www.linkedin.com/company/spinsucks",
+    "industry": "public relations & communications",
+    "employees": "18",
+    "country": "United States"
+  }
+]

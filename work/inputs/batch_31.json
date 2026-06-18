@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1310,
+    "first": "Hayden",
+    "last": "Bingham",
+    "title": "Founder",
+    "company": "LionHead Digital",
+    "website": "https://lionheadmarketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/lionhead-digital",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1311,
+    "first": "Henry",
+    "last": "Larsen",
+    "title": "Owner",
+    "company": "LarsenBrown Inc.",
+    "website": "https://larsenbrown.com",
+    "company_linkedin": "http://www.linkedin.com/company/larsenbrown-inc.",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1312,
+    "first": "Clint",
+    "last": "Stauffer",
+    "title": "Managing Partner",
+    "company": "RockBridge Search & Recruitment",
+    "website": "https://rockbridgesearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/rockbridgesearch",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1313,
+    "first": "Michael",
+    "last": "Haas",
+    "title": "President Founder",
+    "company": "Equipment Pro, LLC",
+    "website": "https://equipmentpro.com",
+    "company_linkedin": "http://www.linkedin.com/company/equipment-pro-llc",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1314,
+    "first": "Gretchen",
+    "last": "Koch",
+    "title": "Associate Partner",
+    "company": "The Talent Studios",
+    "website": "https://talentstudios.com",
+    "company_linkedin": "http://www.linkedin.com/company/thetalentstudios",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1315,
+    "first": "Emma",
+    "last": "Scott",
+    "title": "CSO and Co Founder",
+    "company": "TalentMinded Inc.",
+    "website": "https://talentminded.ca",
+    "company_linkedin": "http://www.linkedin.com/company/talentminded-inc-",
+    "industry": "staffing & recruiting",
+    "employees": "19",
+    "country": "Canada"
+  },
+  {
+    "idx": 1316,
+    "first": "Franchesca",
+    "last": "Nor",
+    "title": "Chef / Owner",
+    "company": "Dive",
+    "website": "https://dive.it",
+    "company_linkedin": "http://www.linkedin.com/company/dive-esports",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1317,
+    "first": "Jemima",
+    "last": "Myers",
+    "title": "Founder & CEO",
+    "company": "Social Chameleon",
+    "website": "https://socialchameleon.com",
+    "company_linkedin": "http://www.linkedin.com/company/social-chameleon-digital-marketing",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1318,
+    "first": "Jessica",
+    "last": "Grossman",
+    "title": "Founder & CEO",
+    "company": "In Social",
+    "website": "https://insocial.ca",
+    "company_linkedin": "http://www.linkedin.com/company/in-social",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Canada"
+  },
+  {
+    "idx": 1319,
+    "first": "Kathy",
+    "last": "Panaro",
+    "title": "Founder & CEO",
+    "company": "Panaro Group - Your Strategic Recruiting Partner",
+    "website": "https://panarogroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-panaro-group-llc-your-strategic-recruiting-partner",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  }
+]

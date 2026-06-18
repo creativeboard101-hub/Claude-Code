@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1190,
+    "first": "Martin",
+    "last": "Stone",
+    "title": "Chief Executive Officer",
+    "company": "Conversion Rate Experts",
+    "website": "https://conversion-rate-experts.com",
+    "company_linkedin": "http://www.linkedin.com/company/conversion-rate-experts",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1191,
+    "first": "Brian",
+    "last": "Wright",
+    "title": "Chief Executive Officer",
+    "company": "Target Continuum",
+    "website": "https://targetcontinuum.com",
+    "company_linkedin": "http://www.linkedin.com/company/targetcontinuum",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1192,
+    "first": "Andrew",
+    "last": "Layman",
+    "title": "COO",
+    "company": "SignArt Inc",
+    "website": "https://signartboston.com",
+    "company_linkedin": "http://www.linkedin.com/company/signart-inc",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1193,
+    "first": "Maddy",
+    "last": "Kilkenny",
+    "title": "Partner",
+    "company": "Intesa Communications Group",
+    "website": "https://intesacom.com",
+    "company_linkedin": "http://www.linkedin.com/company/intesa-communications-group",
+    "industry": "public relations & communications",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1194,
+    "first": "Avery",
+    "last": "Lynch",
+    "title": "Founder",
+    "company": "Adsurdly",
+    "website": "https://adsurdly.com",
+    "company_linkedin": "http://www.linkedin.com/company/adsurdly",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1195,
+    "first": "Mary",
+    "last": "Mickel",
+    "title": "Founder",
+    "company": "AM Group",
+    "website": "https://amgrouppr.com",
+    "company_linkedin": "http://www.linkedin.com/company/amgrouppr",
+    "industry": "public relations & communications",
+    "employees": "19",
+    "country": "United States"
+  },
+  {
+    "idx": 1196,
+    "first": "Anna",
+    "last": "Montgomery",
+    "title": "Founder & Principal",
+    "company": "Amenable",
+    "website": "https://weareamenable.com",
+    "company_linkedin": "http://www.linkedin.com/company/weareamenable",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1197,
+    "first": "Sevada",
+    "last": "Markosyan",
+    "title": "Founder / CEO",
+    "company": "True Path Leads",
+    "website": "https://truepathleads.com",
+    "company_linkedin": "http://www.linkedin.com/company/true-path-leads",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1198,
+    "first": "Vinnie",
+    "last": "Wright",
+    "title": "Partner",
+    "company": "Daybreak IT Solutions",
+    "website": "https://dbdelivers.com",
+    "company_linkedin": "http://www.linkedin.com/company/daybreak-it-solutions",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1199,
+    "first": "Jennifer",
+    "last": "Malloy",
+    "title": "Owner",
+    "company": "Craft & Communicate - Senior Living Marketing and Public Relations",
+    "website": "https://craftandcommunicate.com",
+    "company_linkedin": "http://www.linkedin.com/company/craft-&-communicate",
+    "industry": "marketing & advertising",
+    "employees": "21",
+    "country": "United States"
+  }
+]

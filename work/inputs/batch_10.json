@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1100,
+    "first": "Adam",
+    "last": "Rossique",
+    "title": "Owner",
+    "company": "Just Mortgage Co",
+    "website": "https://just.mortgage",
+    "company_linkedin": "http://www.linkedin.com/company/just-mortgage",
+    "industry": "public relations & communications",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1101,
+    "first": "Dan",
+    "last": "Hughes",
+    "title": "Partner, Operations",
+    "company": "Armor",
+    "website": "https://armor.studio",
+    "company_linkedin": "http://www.linkedin.com/company/armor-studio",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1102,
+    "first": "Adam",
+    "last": "Personett",
+    "title": "Managing Partner",
+    "company": "309 Marketing",
+    "website": "https://309marketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/309-marketing",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1103,
+    "first": "Jeriann",
+    "last": "Bjugstad",
+    "title": "Business Owner",
+    "company": "Bay Area Digital Solutions",
+    "website": "https://bayareadigitalsolutions.com",
+    "company_linkedin": "http://www.linkedin.com/company/bayarea-digitalsolutions",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1104,
+    "first": "Matthew",
+    "last": "Goodchild",
+    "title": "Chief Executive Officer",
+    "company": "Next Generation of Leaders",
+    "website": "https://thenextgenerationofleaders.com",
+    "company_linkedin": "http://www.linkedin.com/company/nextgenerationofleaders",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1105,
+    "first": "Denis",
+    "last": "Samosiuk",
+    "title": "Chief Operating Officer (COO) | Affiliate & Influence | iGaming",
+    "company": "Crystal Media",
+    "website": "https://crystalmedia.agency",
+    "company_linkedin": "http://www.linkedin.com/company/crystal-media-1",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "Poland"
+  },
+  {
+    "idx": 1106,
+    "first": "Mike",
+    "last": "Bruce",
+    "title": "Chairman and CEO",
+    "company": "Sirius Talent Group",
+    "website": "https://siriustalent.com",
+    "company_linkedin": "http://www.linkedin.com/company/siriustalent",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1107,
+    "first": "Kevin",
+    "last": "Gayson",
+    "title": "Partner",
+    "company": "C2R Ventures",
+    "website": "https://c2rventures.com",
+    "company_linkedin": "http://www.linkedin.com/company/c2r-ventures",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1108,
+    "first": "Joe",
+    "last": "Park",
+    "title": "Founder",
+    "company": "The Blended Group",
+    "website": "https://blendedg.com",
+    "company_linkedin": "http://www.linkedin.com/company/blendedgroup",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1109,
+    "first": "Rajneesh",
+    "last": "Gautam",
+    "title": "Founder",
+    "company": "Dexata",
+    "website": "https://dexata.co",
+    "company_linkedin": "http://www.linkedin.com/company/dexata-co",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United Kingdom"
+  }
+]

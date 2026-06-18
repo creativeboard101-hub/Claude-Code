@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1040,
+    "first": "Rene",
+    "last": "Ryan",
+    "title": "Co-Founder/Chief Operating Officer",
+    "company": "BackPocket Agency",
+    "website": "https://backpocketagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/backpocketagency",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1041,
+    "first": "Nikki",
+    "last": "Carlson",
+    "title": "Co-Chief Executive Officer | Co-Founder",
+    "company": "BackHouse Digital Agency",
+    "website": "https://backhouseagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/backhouse-agency",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1042,
+    "first": "Julia",
+    "last": "Knight",
+    "title": "Chief Executive Officer",
+    "company": "Knight Vision",
+    "website": "https://trycutie.com",
+    "company_linkedin": "http://www.linkedin.com/company/knight-vision-marketing",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1043,
+    "first": "Analiese",
+    "last": "Ross",
+    "title": "President & CEO",
+    "company": "AMR Digital Marketing",
+    "website": "https://amrdigital.com",
+    "company_linkedin": "http://www.linkedin.com/company/amrdigitalmarketingconsulting",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1044,
+    "first": "Yash",
+    "last": "Jain",
+    "title": "Founder",
+    "company": "Business Guru",
+    "website": "https://business-guru.uk",
+    "company_linkedin": "http://www.linkedin.com/company/businessguru-1",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1045,
+    "first": "Adam",
+    "last": "Lockhart",
+    "title": "Senior Recruitment Partner",
+    "company": "Resonate Search Group",
+    "website": "https://resonatesearchgroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/resonate-search-group",
+    "industry": "staffing & recruiting",
+    "employees": "14",
+    "country": "United States"
+  },
+  {
+    "idx": 1046,
+    "first": "Natalie",
+    "last": "Knight",
+    "title": "Head of People & Operations",
+    "company": "Change Recruitment",
+    "website": "https://changerecruitment.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/change-recruitment",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "Australia"
+  },
+  {
+    "idx": 1047,
+    "first": "Josh",
+    "last": "Mendez",
+    "title": "Small Business Owner",
+    "company": "SSA Marketing Inc",
+    "website": "https://mendezmediamarketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/mendezmediamarketing",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1048,
+    "first": "John",
+    "last": "Limotte",
+    "title": "Partner",
+    "company": "MIJO",
+    "website": "https://hellomijo.com",
+    "company_linkedin": "http://www.linkedin.com/company/hellomijo",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1049,
+    "first": "Paul",
+    "last": "Goda",
+    "title": "Owner",
+    "company": "Goda Advertising",
+    "website": "https://goda.com",
+    "company_linkedin": "http://www.linkedin.com/company/goda-advertising",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  }
+]

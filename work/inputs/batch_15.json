@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1150,
+    "first": "Abel",
+    "last": "Gedion",
+    "title": "Talent Partner",
+    "company": "remoterecruit.com",
+    "website": "https://remoterecruit.com",
+    "company_linkedin": "http://www.linkedin.com/company/remoterecruit-com-official",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1151,
+    "first": "Kathy",
+    "last": "Oliver",
+    "title": "Co-Owner",
+    "company": "Barrington Staffing Services",
+    "website": "https://barringtonstaffing.com",
+    "company_linkedin": "http://www.linkedin.com/company/barrington-staffing-services",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1152,
+    "first": "Evelyn",
+    "last": "Brown",
+    "title": "Head of Production/Partner - U.S.",
+    "company": "Black Cat White Cat Music",
+    "website": "https://bwcatmusic.com",
+    "company_linkedin": "http://www.linkedin.com/company/black-cat-white-cat",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1153,
+    "first": "Amy",
+    "last": "Friedman",
+    "title": "Owner/CEO",
+    "company": "PROFILES",
+    "website": "https://profilespr.com",
+    "company_linkedin": "http://www.linkedin.com/company/profilesbmore",
+    "industry": "public relations & communications",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1154,
+    "first": "Bianca",
+    "last": "Kenworthy",
+    "title": "Founder & CEO",
+    "company": "POMME",
+    "website": "https://pommecreative.com",
+    "company_linkedin": "http://www.linkedin.com/company/pommecreative",
+    "industry": "public relations & communications",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1155,
+    "first": "Selo",
+    "last": "Aksapli",
+    "title": "CEO",
+    "company": "DigiFist",
+    "website": "https://digifist.com",
+    "company_linkedin": "http://www.linkedin.com/company/digifist",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "Belgium"
+  },
+  {
+    "idx": 1156,
+    "first": "Eliette",
+    "last": "Krakora",
+    "title": "Founder & CEO, Thrive Consulting",
+    "company": "THRIVE Consulting",
+    "website": "https://thrive-co.com",
+    "company_linkedin": "http://www.linkedin.com/company/thrive-co",
+    "industry": "management consulting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1157,
+    "first": "Brenda",
+    "last": "Wiedman",
+    "title": "CEO",
+    "company": "Arrow Land Solutions",
+    "website": "https://arrowlandsolutions.com",
+    "company_linkedin": "http://www.linkedin.com/company/arrow-land-solutions",
+    "industry": "public relations & communications",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1158,
+    "first": "Gareth",
+    "last": "Andrews",
+    "title": "Partner",
+    "company": "ATLAS Recruitment AU",
+    "website": "https://atlasrecruitment.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/atlas-recruitment-au",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "Australia"
+  },
+  {
+    "idx": 1159,
+    "first": "Juan",
+    "last": "Roberts",
+    "title": "Partner",
+    "company": "TheMindCo",
+    "website": "https://themindco.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-mind-company",
+    "industry": "management consulting",
+    "employees": "17",
+    "country": "United Kingdom"
+  }
+]

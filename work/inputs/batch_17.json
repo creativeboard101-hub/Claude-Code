@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1170,
+    "first": "Tim",
+    "last": "Johnson",
+    "title": "CEO/Owner",
+    "company": "Premier Print +",
+    "website": "https://premierprintplus.com",
+    "company_linkedin": "http://www.linkedin.com/company/premier-print-plus",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1171,
+    "first": "Natalie",
+    "last": "Kovac",
+    "title": "Founder & CEO",
+    "company": "Podscale",
+    "website": "https://podscalemedia.com",
+    "company_linkedin": "http://www.linkedin.com/company/podscale",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1172,
+    "first": "Shannon",
+    "last": "Nellis",
+    "title": "CEO",
+    "company": "Offbeat Productions Inc.",
+    "website": "https://offbeatproductions.com",
+    "company_linkedin": "http://www.linkedin.com/company/offbeat-productions-inc",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1173,
+    "first": "Cinthia",
+    "last": "Almeida",
+    "title": "Head of Operations & Activation",
+    "company": "92 Proof",
+    "website": "https://92proof.com",
+    "company_linkedin": "http://www.linkedin.com/company/92-proof",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Australia"
+  },
+  {
+    "idx": 1174,
+    "first": "Emily",
+    "last": "Chamberlin",
+    "title": "Partner",
+    "company": "Principle Recruiting",
+    "website": "https://principlerecruiting.com",
+    "company_linkedin": "http://www.linkedin.com/company/principle-recruiting",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1175,
+    "first": "Kellogg",
+    "last": "Kellogg",
+    "title": "Founder",
+    "company": "JUICE HOUSE",
+    "website": "https://juicehouse.co",
+    "company_linkedin": "http://www.linkedin.com/company/juicehouse",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1176,
+    "first": "Anthony",
+    "last": "Parenti",
+    "title": "Owner",
+    "company": "Indigo Business Solutions",
+    "website": "https://indigousa.com",
+    "company_linkedin": "http://www.linkedin.com/company/indigo-business-solutions-all-forms-of-marketing-&-brandling-",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1177,
+    "first": "Michael",
+    "last": "Cooke",
+    "title": "Founding Partner",
+    "company": "Nextera Search",
+    "website": "https://nexterasearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/nextera-search",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1178,
+    "first": "Patrick",
+    "last": "Frame",
+    "title": "Founder & Principal",
+    "company": "Further - Digital Solutions for Nonprofits",
+    "website": "https://further-digital.com",
+    "company_linkedin": "http://www.linkedin.com/company/furtherdigital",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1179,
+    "first": "Joshua",
+    "last": "Khoshbin",
+    "title": "Co-Founder and Head of Growth",
+    "company": "NextPlay Jobs",
+    "website": "https://nextplayjobs.com",
+    "company_linkedin": "http://www.linkedin.com/company/next-play-jobs",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  }
+]

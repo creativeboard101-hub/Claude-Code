@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1140,
+    "first": "Geoff",
+    "last": "Pitfield",
+    "title": "Co-Founder & Head of Product",
+    "company": "Camino",
+    "website": "https://somoscamino.co",
+    "company_linkedin": "http://www.linkedin.com/company/somos-camino",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "Canada"
+  },
+  {
+    "idx": 1141,
+    "first": "Kent",
+    "last": "Burns",
+    "title": "Founder and CEO",
+    "company": "Simply Driven Executive Search",
+    "website": "https://simplydrivensearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/simply-driven-executive-search",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1142,
+    "first": "Rick",
+    "last": "Spence",
+    "title": "Founder and CEO",
+    "company": "Rawkus",
+    "website": "https://rawkus.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/rawkus",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "Australia"
+  },
+  {
+    "idx": 1143,
+    "first": "Jonathan",
+    "last": "Weisman",
+    "title": "CEO",
+    "company": "JWeis Marketing",
+    "website": "https://jweismarketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/jweismarketing",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1144,
+    "first": "Kimberly",
+    "last": "Biggs",
+    "title": "CEO",
+    "company": "Pop Inc.",
+    "website": "https://agencepopinc.com",
+    "company_linkedin": "http://www.linkedin.com/company/agence-pop-inc",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "Canada"
+  },
+  {
+    "idx": 1145,
+    "first": "Joanna",
+    "last": "Reyes",
+    "title": "Cfo/coo",
+    "company": "EcomVids",
+    "website": "https://ecomvids.com",
+    "company_linkedin": "http://www.linkedin.com/company/ecomvids",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1146,
+    "first": "Lisa",
+    "last": "James",
+    "title": "Partner",
+    "company": "Gordon C. James Public Relations",
+    "website": "https://gcjpr.com",
+    "company_linkedin": "http://www.linkedin.com/company/gcjpr",
+    "industry": "public relations & communications",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1147,
+    "first": "Matt",
+    "last": "Walker",
+    "title": "Co-Founder",
+    "company": "uyo collective",
+    "website": "https://uyocollective.com",
+    "company_linkedin": "http://www.linkedin.com/company/uyocollective",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "Australia"
+  },
+  {
+    "idx": 1148,
+    "first": "Zev",
+    "last": "Friend",
+    "title": "Co-Founder",
+    "company": "DRIFT",
+    "website": "https://driftoffshore.com",
+    "company_linkedin": "http://www.linkedin.com/company/drift-offshore",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1149,
+    "first": "Travis",
+    "last": "Cobb",
+    "title": "Managing Partner",
+    "company": "Express Employment Omaha",
+    "website": "https://expressomaha.com",
+    "company_linkedin": "http://www.linkedin.com/company/express-employment-professionals-north-downtown-omaha",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  }
+]

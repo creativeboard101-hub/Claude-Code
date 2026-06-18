@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1330,
+    "first": "Mike",
+    "last": "Magurany",
+    "title": "Partner",
+    "company": "The Talent Studios",
+    "website": "https://talentstudios.com",
+    "company_linkedin": "http://www.linkedin.com/company/thetalentstudios",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1331,
+    "first": "Rick",
+    "last": "Barnett",
+    "title": "Founder",
+    "company": "Rep-Lite\u00ae",
+    "website": "https://rep-lite.com",
+    "company_linkedin": "http://www.linkedin.com/company/rep-lite",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1332,
+    "first": "Jason",
+    "last": "Pyett",
+    "title": "Founder and CEO",
+    "company": "Playwell Bricks",
+    "website": "https://playwell-bricks.com",
+    "company_linkedin": "http://www.linkedin.com/company/playwell-bricks",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Canada"
+  },
+  {
+    "idx": 1333,
+    "first": "Anu",
+    "last": "Dhebar",
+    "title": "Founding Partner & CEO",
+    "company": "Davenport Resourcing Limited",
+    "website": "https://davenportresourcing.com",
+    "company_linkedin": "http://www.linkedin.com/company/davenport-resourcing-limited",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1334,
+    "first": "Sabrina",
+    "last": "Heywood",
+    "title": "Chief Executive Officer",
+    "company": "Adeptus Marketing",
+    "website": "https://adeptus.marketing",
+    "company_linkedin": "http://www.linkedin.com/company/adeptus-advertising",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Canada"
+  },
+  {
+    "idx": 1335,
+    "first": "Lincoln",
+    "last": "Jacobe",
+    "title": "Chief Executive Officer",
+    "company": "6 Pillars Marketing",
+    "website": "https://6pillarsmarketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/6pillarsmarketing",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1336,
+    "first": "Ryan",
+    "last": "Sheard",
+    "title": "Chief Executive Officer",
+    "company": "True Stance Inc.",
+    "website": "https://truestanceinc.com",
+    "company_linkedin": "http://www.linkedin.com/company/true-stance-inc",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1337,
+    "first": "Jason",
+    "last": "Atakhanov",
+    "title": "Founder",
+    "company": "Setsail Marketing",
+    "website": "https://setsail.ca",
+    "company_linkedin": "http://www.linkedin.com/company/setsailmarketing",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "Canada"
+  },
+  {
+    "idx": 1338,
+    "first": "David",
+    "last": "Manshoory",
+    "title": "Founder & CEO",
+    "company": "HireHawk",
+    "website": "https://hirehawk.com",
+    "company_linkedin": "http://www.linkedin.com/company/hirehawktalent",
+    "industry": "staffing & recruiting",
+    "employees": "20",
+    "country": "United States"
+  },
+  {
+    "idx": 1339,
+    "first": "James",
+    "last": "Rolls",
+    "title": "CEO",
+    "company": "Private Jet Media",
+    "website": "https://privatejet.media",
+    "company_linkedin": "http://www.linkedin.com/company/private-jet-media",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United Kingdom"
+  }
+]

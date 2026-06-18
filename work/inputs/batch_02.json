@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1020,
+    "first": "Candace",
+    "last": "Wilson",
+    "title": "Senior Recruitment Partner",
+    "company": "Resonate Search Group",
+    "website": "https://resonatesearchgroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/resonate-search-group",
+    "industry": "staffing & recruiting",
+    "employees": "14",
+    "country": "Canada"
+  },
+  {
+    "idx": 1021,
+    "first": "Andre",
+    "last": "Hardowin",
+    "title": "Senior Partner | Technical Recruiting",
+    "company": "Optimize Search Group",
+    "website": "https://optimizesg.com",
+    "company_linkedin": "http://www.linkedin.com/company/optimize-search-group",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1022,
+    "first": "Kris",
+    "last": "Irizawa",
+    "title": "Chief Operating Officer",
+    "company": "Eboost Consulting",
+    "website": "https://eboostconsulting.com",
+    "company_linkedin": "http://www.linkedin.com/company/eboost-consulting",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1023,
+    "first": "Shelby",
+    "last": "Olind",
+    "title": "Chief Operating Officer",
+    "company": "Eagle Staffing Solutions LLC",
+    "website": "https://eaglestaffingsolutions.com",
+    "company_linkedin": "http://www.linkedin.com/company/1eagle-staffing-solutionsllc",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1024,
+    "first": "Rose",
+    "last": "Perri",
+    "title": "Partner",
+    "company": "Rosenzweig & Company Inc.",
+    "website": "https://rosenzweigco.com",
+    "company_linkedin": "http://www.linkedin.com/company/rosenzweig-&-company-inc.",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "Canada"
+  },
+  {
+    "idx": 1025,
+    "first": "Samantha",
+    "last": "Zink",
+    "title": "Founder",
+    "company": "Zink Talent",
+    "website": "https://zink-talent.com",
+    "company_linkedin": "http://www.linkedin.com/company/zink-talent",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1026,
+    "first": "Tom",
+    "last": "Dekkers",
+    "title": "Co-Founder Merluno",
+    "company": "Merluno",
+    "website": "https://merluno.com",
+    "company_linkedin": "http://www.linkedin.com/company/merlunoconsulting",
+    "industry": "management consulting",
+    "employees": "15",
+    "country": "Belgium"
+  },
+  {
+    "idx": 1027,
+    "first": "Caroline",
+    "last": "Shawyer",
+    "title": "Co-founder and CEO",
+    "company": "The P.R. Group",
+    "website": "https://prgroup.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/public-relations-group",
+    "industry": "public relations & communications",
+    "employees": "16",
+    "country": "Australia"
+  },
+  {
+    "idx": 1028,
+    "first": "Mai",
+    "last": "Tran",
+    "title": "Founder",
+    "company": "MixBloom",
+    "website": "https://mixbloom.com",
+    "company_linkedin": "http://www.linkedin.com/company/mixbloom",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "Canada"
+  },
+  {
+    "idx": 1029,
+    "first": "Jonathon",
+    "last": "Henderson",
+    "title": "Owner",
+    "company": "Pressure Washing Marketing Pros",
+    "website": "https://pwmarketingpros.com",
+    "company_linkedin": "http://www.linkedin.com/company/pressure-washing-marketing-pros",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  }
+]

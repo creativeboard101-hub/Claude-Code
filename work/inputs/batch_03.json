@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1030,
+    "first": "Joe",
+    "last": "Kovac",
+    "title": "Co-Founder + President",
+    "company": "Podscale",
+    "website": "https://podscalemedia.com",
+    "company_linkedin": "http://www.linkedin.com/company/podscale",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1031,
+    "first": "Cate",
+    "last": "Bray",
+    "title": "VP & Managing Partner",
+    "company": "Simply Driven Executive Search",
+    "website": "https://simplydrivensearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/simply-driven-executive-search",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1032,
+    "first": "Carrie",
+    "last": "Liberio",
+    "title": "Chief Operating Officer",
+    "company": "High Voltage Electric",
+    "website": "https://highvoltageelectric.com",
+    "company_linkedin": "http://www.linkedin.com/company/high-voltage-electric",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1033,
+    "first": "Tammy",
+    "last": "James",
+    "title": "Chief Operating Officer",
+    "company": "Calibre Resourcing Solutions Pty Ltd",
+    "website": "https://calibreresourcingsolutions.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/calibre-resourcing-solutions-pty-ltd",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "Australia"
+  },
+  {
+    "idx": 1034,
+    "first": "Ty",
+    "last": "Marion",
+    "title": "CEO",
+    "company": "TradeMark Sports & Entertainment",
+    "website": "https://trademarkse.com",
+    "company_linkedin": "http://www.linkedin.com/company/trademark-se",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1035,
+    "first": "Teresa",
+    "last": "Grimaldo",
+    "title": "Chief Operations Officer",
+    "company": "PrePaid-USA",
+    "website": "https://prepaid-usa.com",
+    "company_linkedin": "http://www.linkedin.com/company/prepaid-usa",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1036,
+    "first": "Preston",
+    "last": "Rudie",
+    "title": "President & CEO",
+    "company": "Catalyst Communications Group",
+    "website": "https://catalystcommunicationsgroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/catalyst-communications-group",
+    "industry": "public relations & communications",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1037,
+    "first": "Beverly",
+    "last": "Amstadter",
+    "title": "Owner",
+    "company": "Express Employment Professionals - Houston Bay Area & Galveston County",
+    "website": "https://expresspros.com",
+    "company_linkedin": "http://www.linkedin.com/company/express-employment-professionals-houston-bay-area",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1038,
+    "first": "Mekdes",
+    "last": "Gedion",
+    "title": "Talent Partner",
+    "company": "remoterecruit.com",
+    "website": "https://remoterecruit.com",
+    "company_linkedin": "http://www.linkedin.com/company/remoterecruit-com-official",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1039,
+    "first": "Sean",
+    "last": "Salci",
+    "title": "Partner & In-House Counsel",
+    "company": "Maxx MGMT LLC",
+    "website": "https://maxxmgmt.co",
+    "company_linkedin": "http://www.linkedin.com/company/maxx-branding-management",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  }
+]

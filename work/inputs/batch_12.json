@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1120,
+    "first": "Jordan",
+    "last": "Nix",
+    "title": "Founder & CMO",
+    "company": "The Nix Company",
+    "website": "https://thenixcompany.co",
+    "company_linkedin": "http://www.linkedin.com/company/thenixco",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1121,
+    "first": "Brad",
+    "last": "Thomas",
+    "title": "Managing Partner, Executive Search",
+    "company": "Chamberlain Advisors",
+    "website": "https://chamberlainadvisors.co",
+    "company_linkedin": "http://www.linkedin.com/company/chamberlainadvisors",
+    "industry": "staffing & recruiting",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1122,
+    "first": "Michael",
+    "last": "Lemmer",
+    "title": "CEO & Founder",
+    "company": "ML6 Search + Talent Advisory",
+    "website": "https://ml6.ca",
+    "company_linkedin": "http://www.linkedin.com/company/ml6searchtalentadvisory",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "Canada"
+  },
+  {
+    "idx": 1123,
+    "first": "Aditya",
+    "last": "Varanasi",
+    "title": "Founder, Chief Executive Officer",
+    "company": "Awarity",
+    "website": "https://awarity.com",
+    "company_linkedin": "http://www.linkedin.com/company/awarity-digital-advertising",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1124,
+    "first": "Daniel",
+    "last": "Kreps",
+    "title": "Chief Operating Officer",
+    "company": "Forge",
+    "website": "https://forgestrategy.ca",
+    "company_linkedin": "http://www.linkedin.com/company/forgestrategy",
+    "industry": "management consulting",
+    "employees": "16",
+    "country": "Canada"
+  },
+  {
+    "idx": 1125,
+    "first": "Sherri",
+    "last": "Langburt",
+    "title": "CEO",
+    "company": "BabbleBoxx",
+    "website": "https://babbleboxx.com",
+    "company_linkedin": "http://www.linkedin.com/company/babbleboxx",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1126,
+    "first": "Marielle",
+    "last": "Marcus",
+    "title": "Head of Operations",
+    "company": "Summit Chase",
+    "website": "https://summitchase.co",
+    "company_linkedin": "http://www.linkedin.com/company/summit-chase-digital",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1127,
+    "first": "Paulina",
+    "last": "Calderon",
+    "title": "Chief Executive Officer & Founder | Brand Accelerator Driving Awareness, Acquisition & Retention",
+    "company": "RealUp Media",
+    "website": "https://itsrealup.com",
+    "company_linkedin": "http://www.linkedin.com/company/realup-media",
+    "industry": "marketing & advertising",
+    "employees": "16",
+    "country": "United States"
+  },
+  {
+    "idx": 1128,
+    "first": "Radley",
+    "last": "Ruland",
+    "title": "Owner",
+    "company": "Rad Wear",
+    "website": "https://radwear.com",
+    "company_linkedin": "http://www.linkedin.com/company/rad-wear",
+    "industry": "marketing & advertising",
+    "employees": "15",
+    "country": "United States"
+  },
+  {
+    "idx": 1129,
+    "first": "Alan",
+    "last": "McGinn",
+    "title": "Founding Partner",
+    "company": "Nextera Search",
+    "website": "https://nexterasearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/nextera-search",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United States"
+  }
+]

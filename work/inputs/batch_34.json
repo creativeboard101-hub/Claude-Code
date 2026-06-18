@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1340,
+    "first": "Anna",
+    "last": "Jefferis-Lewis",
+    "title": "CEO",
+    "company": "Intelsio Inc",
+    "website": "https://intels.io",
+    "company_linkedin": "http://www.linkedin.com/company/intelsio",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1341,
+    "first": "Cynthia",
+    "last": "Metler",
+    "title": "Chief Executive Officer",
+    "company": "Mediasol",
+    "website": "https://mediasol.com",
+    "company_linkedin": "http://www.linkedin.com/company/mediasol916",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1342,
+    "first": "Brad",
+    "last": "Evans",
+    "title": "CEO",
+    "company": "JSLmedia",
+    "website": "https://jslmedia.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/jsl-media-pty-ltd",
+    "industry": "marketing & advertising",
+    "employees": "19",
+    "country": "Australia"
+  },
+  {
+    "idx": 1343,
+    "first": "Mary",
+    "last": "Smucker",
+    "title": "Founder",
+    "company": "Simple Search Marketing",
+    "website": "https://simplesearch.marketing",
+    "company_linkedin": "http://www.linkedin.com/company/simple-search",
+    "industry": "marketing & advertising",
+    "employees": "19",
+    "country": "United States"
+  },
+  {
+    "idx": 1344,
+    "first": "Borja",
+    "last": "Cuan",
+    "title": "Co-Founder",
+    "company": "Four15 Digital",
+    "website": "https://four15digital.com",
+    "company_linkedin": "http://www.linkedin.com/company/four15-digital",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1345,
+    "first": "Heather",
+    "last": "Porter",
+    "title": "Associate Partner",
+    "company": "The Talent Studios",
+    "website": "https://talentstudios.com",
+    "company_linkedin": "http://www.linkedin.com/company/thetalentstudios",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1346,
+    "first": "Margie",
+    "last": "Tsay",
+    "title": "Founding Partner",
+    "company": "Intesa Communications Group",
+    "website": "https://intesacom.com",
+    "company_linkedin": "http://www.linkedin.com/company/intesa-communications-group",
+    "industry": "public relations & communications",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1347,
+    "first": "Kiki",
+    "last": "Myers",
+    "title": "Chief Operating Officer",
+    "company": "The Staffing Agency, LLC",
+    "website": "https://thestaffingagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-staffing-agency-llc",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1348,
+    "first": "Megan",
+    "last": "Hartman",
+    "title": "President and CEO",
+    "company": "Callis",
+    "website": "https://ecallis.com",
+    "company_linkedin": "http://www.linkedin.com/company/callis-integrated-marketing",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1349,
+    "first": "Armand",
+    "last": "Brown",
+    "title": "Co-Founder / Managing Partner",
+    "company": "Tripwire",
+    "website": "https://wearetripwire.com",
+    "company_linkedin": "http://www.linkedin.com/company/tripwireclt",
+    "industry": "marketing & advertising",
+    "employees": "19",
+    "country": "United States"
+  }
+]

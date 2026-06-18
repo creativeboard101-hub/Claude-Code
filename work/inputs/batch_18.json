@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1180,
+    "first": "Vince",
+    "last": "Wang",
+    "title": "Chief Executive Officer",
+    "company": "Mustard",
+    "website": "https://mustard.love",
+    "company_linkedin": "http://www.linkedin.com/company/mustardlove",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1181,
+    "first": "Ian",
+    "last": "Page",
+    "title": "Owner",
+    "company": "Bullseye Sellers Marketplace Agency",
+    "website": "https://bullseyesellers.com",
+    "company_linkedin": "http://www.linkedin.com/company/bullseyesellers",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1182,
+    "first": "Jason",
+    "last": "Amsler",
+    "title": "Managing Partner",
+    "company": "RockBridge Search & Recruitment",
+    "website": "https://rockbridgesearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/rockbridgesearch",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1183,
+    "first": "Stacy",
+    "last": "Towers",
+    "title": "Founder & Managing Partner",
+    "company": "MT Talent Solutions Inc.",
+    "website": "https://mttalent.ca",
+    "company_linkedin": "http://www.linkedin.com/company/mttalentsolutions",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1184,
+    "first": "Sonny",
+    "last": "Gupta",
+    "title": "Partner",
+    "company": "Daybreak IT Solutions",
+    "website": "https://dbdelivers.com",
+    "company_linkedin": "http://www.linkedin.com/company/daybreak-it-solutions",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1185,
+    "first": "Lori",
+    "last": "Hanken",
+    "title": "Owner",
+    "company": "Total Displays",
+    "website": "https://totaldisplays.com",
+    "company_linkedin": "http://www.linkedin.com/company/total-displays",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1186,
+    "first": "Timur",
+    "last": "Dyrdin",
+    "title": "Co-Founder",
+    "company": "One Billion Media",
+    "website": "https://onebillionmedia.com",
+    "company_linkedin": "http://www.linkedin.com/company/one-billion-media",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Cyprus"
+  },
+  {
+    "idx": 1187,
+    "first": "Alexandra",
+    "last": "Zemtsovskaya",
+    "title": "Managing Partner",
+    "company": "PRofile Agency Moldova",
+    "website": "https://profile.md",
+    "company_linkedin": "http://www.linkedin.com/company/profile-agency-moldova",
+    "industry": "public relations & communications",
+    "employees": "17",
+    "country": "Moldova"
+  },
+  {
+    "idx": 1188,
+    "first": "Jennifer",
+    "last": "Orford",
+    "title": "Founder & CEO",
+    "company": "JMO Communications",
+    "website": "https://jmocommunications.com",
+    "company_linkedin": "http://www.linkedin.com/company/jmo-communications",
+    "industry": "public relations & communications",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1189,
+    "first": "Stefano",
+    "last": "Faustini",
+    "title": "Co-Founder & Partner",
+    "company": "Brand of a Leader",
+    "website": "https://brandofaleader.com",
+    "company_linkedin": "http://www.linkedin.com/company/brandofaleader",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "Canada"
+  }
+]

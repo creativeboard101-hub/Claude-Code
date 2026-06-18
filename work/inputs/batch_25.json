@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1250,
+    "first": "Pete",
+    "last": "Schroeder",
+    "title": "President/Owner",
+    "company": "View Outdoor Advertising, LLC",
+    "website": "https://viewoutdoor.com",
+    "company_linkedin": "http://www.linkedin.com/company/view-outdoor-advertising-llc",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1251,
+    "first": "Tom",
+    "last": "Shapiro",
+    "title": "Founder & CEO",
+    "company": "Stratabeat",
+    "website": "https://stratabeat.com",
+    "company_linkedin": "http://www.linkedin.com/company/stratabeat",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1252,
+    "first": "Ruth",
+    "last": "Rose",
+    "title": "Owner",
+    "company": "Rose Marketing Solutions",
+    "website": "https://rosemarketingsolutions.net",
+    "company_linkedin": "http://www.linkedin.com/company/rose-marketing-solutions",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1253,
+    "first": "Lucy",
+    "last": "Lorenzo",
+    "title": "Founding Partner",
+    "company": "Ascension Search Partners",
+    "website": "https://ascensionsearchpartners.com",
+    "company_linkedin": "http://www.linkedin.com/company/ascension-search-partners",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1254,
+    "first": "Randy",
+    "last": "Ordonez",
+    "title": "Founder & CEO",
+    "company": "Rodeo ROI",
+    "website": "https://rodeoroi.com",
+    "company_linkedin": "http://www.linkedin.com/company/rodeoroi",
+    "industry": "marketing & advertising",
+    "employees": "22",
+    "country": "United States"
+  },
+  {
+    "idx": 1255,
+    "first": "Melissa",
+    "last": "Shea",
+    "title": "CEO",
+    "company": "Fashion Mingle",
+    "website": "https://fashionmingle.com",
+    "company_linkedin": "http://www.linkedin.com/company/fashion-mingle",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1256,
+    "first": "Rachel",
+    "last": "Allison",
+    "title": "Founder",
+    "company": "Axe + Saw",
+    "website": "https://axeandsaw.co.uk",
+    "company_linkedin": "http://www.linkedin.com/company/axe-saw",
+    "industry": "public relations & communications",
+    "employees": "18",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1257,
+    "first": "Rob",
+    "last": "Vanator",
+    "title": "Founder/President",
+    "company": "Midwest Technology Partnership, LLC",
+    "website": "https://marottapts.com",
+    "company_linkedin": "http://www.linkedin.com/company/midwest-technology-partnership-llc",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1258,
+    "first": "Eric",
+    "last": "Soderberg",
+    "title": "Managing Partner",
+    "company": "Forefront Communications Group Inc.",
+    "website": "https://forefrontcomms.com",
+    "company_linkedin": "http://www.linkedin.com/company/forefront-communications-group-inc.",
+    "industry": "public relations & communications",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1259,
+    "first": "Dhiren",
+    "last": "Vadher",
+    "title": "COO & Managing Partner",
+    "company": "Davenport Resourcing Limited",
+    "website": "https://davenportresourcing.com",
+    "company_linkedin": "http://www.linkedin.com/company/davenport-resourcing-limited",
+    "industry": "staffing & recruiting",
+    "employees": "15",
+    "country": "United Kingdom"
+  }
+]

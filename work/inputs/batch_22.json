@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1220,
+    "first": "Tim",
+    "last": "Hanas",
+    "title": "Owner",
+    "company": "Habit Communications",
+    "website": "https://habithq.ca",
+    "company_linkedin": "http://www.linkedin.com/company/habithq",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Canada"
+  },
+  {
+    "idx": 1221,
+    "first": "Victor",
+    "last": "Heliodor",
+    "title": "Owner",
+    "company": "Bounty Models",
+    "website": "https://bountymodels.com",
+    "company_linkedin": "http://www.linkedin.com/company/bountymodels",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1222,
+    "first": "Srikar",
+    "last": "Karra",
+    "title": "Co-Founder",
+    "company": "Trendify",
+    "website": "https://trendify.com",
+    "company_linkedin": "http://www.linkedin.com/company/trendifymedia",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1223,
+    "first": "Dave",
+    "last": "Camell",
+    "title": "Managing Partner",
+    "company": "Edge Staffing",
+    "website": "https://edgestaffing.com",
+    "company_linkedin": "http://www.linkedin.com/company/edgestaffing",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1224,
+    "first": "Michael",
+    "last": "Ehlert",
+    "title": "Chief Executive Officer",
+    "company": "Advance Amazon Agency",
+    "website": "https://advanceamazon.com",
+    "company_linkedin": "http://www.linkedin.com/company/advance-amazon-agency",
+    "industry": "management consulting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1225,
+    "first": "Walder",
+    "last": "Amaya",
+    "title": "CEO / Co-Founder",
+    "company": "APEX Mobile Media",
+    "website": "https://apexmobilemedia.com",
+    "company_linkedin": "http://www.linkedin.com/company/apexmobilemedia",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Canada"
+  },
+  {
+    "idx": 1226,
+    "first": "Vishal",
+    "last": "Pawar",
+    "title": "Founder & CEO",
+    "company": "Acepoint Media",
+    "website": "https://acepointmedia.com",
+    "company_linkedin": "http://www.linkedin.com/company/acepoint",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1227,
+    "first": "Scott",
+    "last": "Tranchemontagne",
+    "title": "Founder and Partner",
+    "company": "Montagne Powers",
+    "website": "https://montagnepowers.com",
+    "company_linkedin": "http://www.linkedin.com/company/montagne-powers",
+    "industry": "public relations & communications",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1228,
+    "first": "Dana",
+    "last": "Arnett",
+    "title": "Chief Executive Officer",
+    "company": "Wicked Bionic \u2022 Cultural Communications + Advertising Agency",
+    "website": "https://wickedbionic.com",
+    "company_linkedin": "http://www.linkedin.com/company/wickedbionic",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1229,
+    "first": "Alison",
+    "last": "Cook",
+    "title": "Chief Executive Officer",
+    "company": "Central Coast Group Training",
+    "website": "https://ccgt.com.au",
+    "company_linkedin": "http://www.linkedin.com/company/centralcoastgrouptraining",
+    "industry": "staffing & recruiting",
+    "employees": "19",
+    "country": "Australia"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idx": 1380,
+    "first": "Susan",
+    "last": "Masucci",
+    "title": "Founder, Principal",
+    "company": "ruckus",
+    "website": "https://createaruckus.com",
+    "company_linkedin": "http://www.linkedin.com/company/ruckus-advertising-public-relations",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1381,
+    "first": "Tony",
+    "last": "Xypteras",
+    "title": "Managing Partner",
+    "company": "Pennant Digital",
+    "website": "https://pennantdigital.com",
+    "company_linkedin": "http://www.linkedin.com/company/pennantdigital",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1382,
+    "first": "Scot",
+    "last": "Baker",
+    "title": "President and Co-founder",
+    "company": "ProTek Partners, LLC",
+    "website": "https://protekpartners.com",
+    "company_linkedin": "http://www.linkedin.com/company/pro-tek-partners-llc",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1383,
+    "first": "Penny",
+    "last": "Hatchell",
+    "title": "Owner",
+    "company": "Envoy, Inc.",
+    "website": "https://envoyinc.com",
+    "company_linkedin": "http://www.linkedin.com/company/envoyinc",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1384,
+    "first": "Ryan",
+    "last": "Leckey",
+    "title": "Founder & President",
+    "company": "Ryan Leckey Media",
+    "website": "https://ryanleckeymedia.com",
+    "company_linkedin": "http://www.linkedin.com/company/ryan-leckey-media",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1385,
+    "first": "Mike",
+    "last": "Stommel",
+    "title": "Principal and Founder",
+    "company": "Lucky Break Public Relations",
+    "website": "https://luckybreakpr.com",
+    "company_linkedin": "http://www.linkedin.com/company/luckybreakpublicrelations",
+    "industry": "public relations & communications",
+    "employees": "18",
+    "country": "United States"
+  }
+]

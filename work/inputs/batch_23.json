@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1230,
+    "first": "Eric",
+    "last": "Vaughn",
+    "title": "Founder",
+    "company": "Martin Monroe",
+    "website": "https://martinmonroecreative.com",
+    "company_linkedin": "http://www.linkedin.com/company/martinmonroe",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1231,
+    "first": "Kathy",
+    "last": "Schipper",
+    "title": "Owner",
+    "company": "Waltz Creative",
+    "website": "https://waltzcreative.com",
+    "company_linkedin": "http://www.linkedin.com/company/waltzcreative",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1232,
+    "first": "Rick",
+    "last": "Lambert",
+    "title": "Chief Executive Officer",
+    "company": "IN2communications",
+    "website": "https://in2communications.com",
+    "company_linkedin": "http://www.linkedin.com/company/in2communications-inc",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Canada"
+  },
+  {
+    "idx": 1233,
+    "first": "Trevor",
+    "last": "Raymond",
+    "title": "Chief Executive Officer",
+    "company": "World Platinum Investment Council - WPIC\u00ae",
+    "website": "https://platinuminvestment.com",
+    "company_linkedin": "http://www.linkedin.com/company/world-platinum-investment-council",
+    "industry": "marketing & advertising",
+    "employees": "19",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1234,
+    "first": "Anthonee",
+    "last": "Mandani",
+    "title": "Chief Executive Officer",
+    "company": "Talenture Agency",
+    "website": "https://talentureagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/talentureagency",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "Canada"
+  },
+  {
+    "idx": 1235,
+    "first": "Rakesh",
+    "last": "Kapila",
+    "title": "President & CEO",
+    "company": "Adeptus Marketing",
+    "website": "https://adeptus.marketing",
+    "company_linkedin": "http://www.linkedin.com/company/adeptus-advertising",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "Canada"
+  },
+  {
+    "idx": 1236,
+    "first": "Marty",
+    "last": "Austria",
+    "title": "Co-Founder",
+    "company": "UP TOP",
+    "website": "https://envuehotel.com",
+    "company_linkedin": "http://www.linkedin.com/company/up-top-search",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1237,
+    "first": "Joel",
+    "last": "Biery",
+    "title": "Co-Founder",
+    "company": "KapturBox",
+    "website": "https://kapturbox.com",
+    "company_linkedin": "http://www.linkedin.com/company/kapturbox",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1238,
+    "first": "Andrew",
+    "last": "Waters",
+    "title": "Co-Founder",
+    "company": "Zanda",
+    "website": "https://zandasearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/zanda-search",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1239,
+    "first": "Emily",
+    "last": "Hirsh",
+    "title": "CEO",
+    "company": "Hirsh Marketing",
+    "website": "https://hirshmarketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/hirshmarketing",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  }
+]

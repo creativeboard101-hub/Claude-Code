@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1280,
+    "first": "Darren",
+    "last": "Low",
+    "title": "Chief Executive Officer",
+    "company": "Ideas + Outcomes",
+    "website": "https://ideasandoutcomes.com",
+    "company_linkedin": "http://www.linkedin.com/company/ideasandoutcomes",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United Kingdom"
+  },
+  {
+    "idx": 1281,
+    "first": "Emanuel",
+    "last": "Ceniceros",
+    "title": "Chief Executive Officer",
+    "company": "Bedrock Digital Marketing",
+    "website": "https://bedrockdigitalmarketing.com",
+    "company_linkedin": "http://www.linkedin.com/company/bedrock-digital-marketing",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1282,
+    "first": "Olivia",
+    "last": "Young",
+    "title": "Chief Operations Officer",
+    "company": "The Pearl Agency NYC",
+    "website": "https://thepearlagencyny.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-pearl-agency-nyc",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1283,
+    "first": "Julianne",
+    "last": "Weiner",
+    "title": "COO",
+    "company": "Sonic Promos",
+    "website": "https://sonicpromos.com",
+    "company_linkedin": "http://www.linkedin.com/company/sonic-promos",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1284,
+    "first": "Bharat",
+    "last": "Kalyan",
+    "title": "Founder",
+    "company": "The Hirexpress LLC",
+    "website": "https://thehirexpress.com",
+    "company_linkedin": "http://www.linkedin.com/company/the-hirexpress-llc",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1285,
+    "first": "Dane",
+    "last": "Van Breene",
+    "title": "Owner",
+    "company": "Pure Marketing Group",
+    "website": "https://puremarketinggroup.net",
+    "company_linkedin": "http://www.linkedin.com/company/pure-marketing-group",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1286,
+    "first": "Erik",
+    "last": "Dafforn",
+    "title": "Co Founder",
+    "company": "Lead to Conversion",
+    "website": "https://leadtoconversion.com",
+    "company_linkedin": "http://www.linkedin.com/company/lead-to-conversion-llc-",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1287,
+    "first": "Ashley",
+    "last": "Bidelspach",
+    "title": "Chief Executive Officer",
+    "company": "Talenture Agency",
+    "website": "https://talentureagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/talentureagency",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1288,
+    "first": "Rachel",
+    "last": "Knutton",
+    "title": "Chief Executive Officer",
+    "company": "Alluvia Studio",
+    "website": "https://alluviastudio.com",
+    "company_linkedin": "http://www.linkedin.com/company/alluviastudio",
+    "industry": "management consulting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1289,
+    "first": "Chantelle",
+    "last": "Urquhart",
+    "title": "Group CEO",
+    "company": "Express Nursing",
+    "website": "https://express-nursing.co.uk",
+    "company_linkedin": "http://www.linkedin.com/company/express-nursing1",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United Kingdom"
+  }
+]

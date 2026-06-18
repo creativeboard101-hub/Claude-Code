@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1300,
+    "first": "Claire",
+    "last": "Dempsey",
+    "title": "Partner",
+    "company": "Bell Oaks Executive Search",
+    "website": "https://belloaks.com",
+    "company_linkedin": "http://www.linkedin.com/company/bell-oaks-company",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1301,
+    "first": "Dan",
+    "last": "Eskow",
+    "title": "Founder",
+    "company": "UP TOP",
+    "website": "https://envuehotel.com",
+    "company_linkedin": "http://www.linkedin.com/company/up-top-search",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1302,
+    "first": "Robert",
+    "last": "Colleluori",
+    "title": "Founder",
+    "company": "HealthCare Alliance Group, LLC",
+    "website": "https://hcagroup.com",
+    "company_linkedin": "http://www.linkedin.com/company/healthcare-alliance-group-llc",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1303,
+    "first": "Nicholas",
+    "last": "Hinckley",
+    "title": "Managing Partner",
+    "company": "Fly More Kites (FMK Agency)",
+    "website": "https://fmkagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/fmk-agency",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1304,
+    "first": "Erica",
+    "last": "Franzen",
+    "title": "Founder / CEO",
+    "company": "CapeTalent",
+    "website": "https://capetalent.com",
+    "company_linkedin": "http://www.linkedin.com/company/capetalent",
+    "industry": "staffing & recruiting",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1305,
+    "first": "Andrew",
+    "last": "Schenkel",
+    "title": "Founder and CEO",
+    "company": "Double Play Marketing and Sales",
+    "website": "https://doubleplayagency.com",
+    "company_linkedin": "http://www.linkedin.com/company/double-play-agency",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1306,
+    "first": "Zach",
+    "last": "Everman",
+    "title": "Founder/CEO",
+    "company": "Pixel Labs",
+    "website": "https://thepixellab.co",
+    "company_linkedin": "http://www.linkedin.com/company/thepixellab",
+    "industry": "marketing & advertising",
+    "employees": "17",
+    "country": "United States"
+  },
+  {
+    "idx": 1307,
+    "first": "David",
+    "last": "Packer",
+    "title": "Chief Operating Officer",
+    "company": "Linda Gaunt Communications",
+    "website": "https://lindagaunt.com",
+    "company_linkedin": "http://www.linkedin.com/company/linda-gaunt-communications",
+    "industry": "public relations & communications",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1308,
+    "first": "Adam",
+    "last": "McNally",
+    "title": "Chief Executive Officer",
+    "company": "Imperium Elite",
+    "website": "https://imperiumelite.com",
+    "company_linkedin": "http://www.linkedin.com/company/imperium-elite",
+    "industry": "marketing & advertising",
+    "employees": "18",
+    "country": "United States"
+  },
+  {
+    "idx": 1309,
+    "first": "Stephen",
+    "last": "Smith",
+    "title": "Partner",
+    "company": "Trova",
+    "website": "https://trovasearch.com",
+    "company_linkedin": "http://www.linkedin.com/company/trovasearch",
+    "industry": "staffing & recruiting",
+    "employees": "18",
+    "country": "United States"
+  }
+]
