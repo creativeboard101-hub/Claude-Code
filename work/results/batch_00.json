@@ -1,0 +1,12 @@
+[
+  {"idx": 1000, "n_signals": 0, "signals": "None identified.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1001, "n_signals": 1, "signals": "Labor Scaling — active hiring for a Senior Account Executive (internal client/growth role).", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1002, "n_signals": 0, "signals": "None identified.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1003, "n_signals": 0, "signals": "None identified.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1004, "n_signals": 1, "signals": "Labor Scaling — active internal hiring for Operations Lead / Senior Operations Associate.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1005, "n_signals": 1, "signals": "Labor Scaling — active hiring for Account Executive / Senior Account Executive.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1006, "n_signals": 0, "signals": "None identified.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1007, "n_signals": 0, "signals": "None identified.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1008, "n_signals": 1, "signals": "Labor Scaling — active hiring for an internal Account Manager (B2B client/growth role).", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"},
+  {"idx": 1009, "n_signals": 0, "signals": "None identified.", "score": "Tier 0: Discard (0-1 Signals) -> Archive / Not Ready"}
+]
