@@ -98,6 +98,16 @@
     document.getElementById('persenHemat').innerText = persenHemat.toLocaleString('id-ID', { maximumFractionDigits: 2 }) + '%';
     document.getElementById('hasilBox').style.display = 'block';
   }
+
+  // Hitung ulang otomatis setiap kali input berubah, dan saat Enter ditekan.
+  ['hargaAwal', 'diskonUtama', 'diskonPlus'].forEach(function (id) {
+    let input = document.getElementById(id);
+    input.addEventListener('input', hitungDiskon);
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') hitungDiskon();
+    });
+  });
+  hitungDiskon();
 </script>
 
 </body>
