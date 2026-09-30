@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diskon Bertingkat — Sepatu & Baju</title>
+  <style>
+    :root {
+      --bg: #0f1020;
+      --card: rgba(255, 255, 255, 0.06);
+      --border: rgba(255, 255, 255, 0.12);
+      --text: #f2f3ff;
+      --muted: #9a9cc0;
+      --accent: #ff5c8a;
+      --accent2: #7c5cff;
+      --good: #3ddc97;
+    }
+    * { box-sizing: border-box; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; }
+    body {
+      margin: 0; padding: 16px; min-height: 100vh; color: var(--text);
+      background:
+        radial-gradient(600px 400px at 10% -10%, rgba(124, 92, 255, 0.35), transparent),
+        radial-gradient(500px 400px at 100% 10%, rgba(255, 92, 138, 0.25), transparent),
+        var(--bg);
+    }
+    .wrap { max-width: 520px; margin: 0 auto; }
+    header { text-align: center; padding: 16px 0 20px; }
+    header h1 { margin: 0; font-size: 26px; letter-spacing: -0.5px; }
+    header p { margin: 6px 0 0; color: var(--muted); font-size: 14px; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: 20px; margin-bottom: 16px; backdrop-filter: blur(8px); }
+    .card h2 { margin: 0 0 14px; font-size: 13px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); }
+
+    .price-field { display: flex; align-items: center; gap: 10px; background: rgba(0,0,0,0.25); border: 1px solid var(--border); border-radius: 12px; padding: 0 14px; }
+    .price-field:focus-within { border-color: var(--accent2); }
+    .price-field span { color: var(--muted); font-weight: 600; }
+    .price-field input { flex: 1; background: none; border: none; outline: none; color: var(--text); font-size: 22px; font-weight: 700; padding: 14px 0; min-width: 0; }
+
+    .slider-row { margin-top: 20px; }
+    .slider-head { display: flex; justify-content: space-between; align-items: baseline; font-size: 14px; color: var(--muted); }
+    .slider-head b { color: var(--text); font-size: 20px; }
+    input[type=range] { width: 100%; margin: 10px 0 0; accent-color: var(--accent); }
+    .chips { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+    .chip { background: rgba(255,255,255,0.08); border: 1px solid var(--border); color: var(--text); border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer; }
+    .chip:hover { background: rgba(255,255,255,0.16); }
+
+    .result { text-align: center; background: linear-gradient(135deg, rgba(124,92,255,0.35), rgba(255,92,138,0.35)); }
+    .result .label { font-size: 13px; color: #e6e6ff; }
+    .result .big { font-size: 40px; font-weight: 800; margin: 4px 0 2px; letter-spacing: -1px; }
+    .result .old { color: #d0d0f0; text-decoration: line-through; font-size: 15px; }
+    .steps { display: flex; justify-content: space-between; gap: 8px; margin-top: 16px; font-size: 13px; }
+    .step { flex: 1; background: rgba(0,0,0,0.25); border-radius: 12px; padding: 10px 6px; }
+    .step small { display: block; color: var(--muted); margin-bottom: 2px; }
+    .step strong { font-size: 14px; }
+    .save { color: var(--good); }
+
+    .product { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 0; border-top: 1px solid var(--border); }
+    .product:first-of-type { border-top: none; padding-top: 0; }
+    .product .name { font-weight: 600; }
+    .product .tag { display: inline-block; margin-top: 4px; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: var(--accent); color: #fff; }
+    .product .prices { text-align: right; }
+    .product .was { color: var(--muted); text-decoration: line-through; font-size: 12px; }
+    .product .now { font-weight: 800; font-size: 17px; color: var(--good); }
+    .product button { background: none; border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 4px 8px; font-size: 11px; cursor: pointer; margin-top: 4px; }
+    .product button:hover { background: rgba(255,255,255,0.1); }
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🛍️ Diskon Sepatu & Baju</h1>
+    <p>Hitung harga akhir dari diskon bertingkat</p>
+  </header>
+
+  <div class="card">
+    <h2>Kalkulator</h2>
+    <label for="hargaAwal" style="font-size:14px;color:var(--muted)">Harga awal</label>
+    <div class="price-field" style="margin-top:6px">
+      <span>Rp</span>
+      <input type="number" id="hargaAwal" min="0" inputmode="numeric" value="200000">
+    </div>
+
+    <div class="slider-row">
+      <div class="slider-head"><label for="diskonUtama">Diskon utama</label><b><span id="lblD1">50</span>%</b></div>
+      <input type="range" id="diskonUtama" min="0" max="100" step="1" value="50">
+    </div>
+
+    <div class="slider-row">
+      <div class="slider-head"><label for="diskonPlus">Diskon tambahan</label><b>+ <span id="lblD2">20</span>%</b></div>
+      <input type="range" id="diskonPlus" min="0" max="100" step="1" value="20">
+    </div>
+
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="card result">
+    <div class="label">Harga akhir</div>
+    <div class="big" id="hargaAkhir"></div>
+    <div class="old" id="hargaAsli"></div>
+    <div class="steps">
+      <div class="step"><small>Setelah diskon utama</small><strong id="setelahD1"></strong></div>
+      <div class="step"><small>Total hemat</small><strong class="save" id="totalHemat"></strong></div>
+      <div class="step"><small>Potongan efektif</small><strong class="save" id="persenHemat"></strong></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Katalog Promo</h2>
+    <div id="katalog"></div>
+  </div>
+</div>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+
+  const PRESETS = [[50, 20], [50, 25], [30, 15], [70, 10]];
+  const PRODUK = [
+    { nama: 'Sepatu Sneaker Pro', harga: 500000, d1: 50, d2: 20 },
+    { nama: 'Jaket Denim Vintage', harga: 450000, d1: 50, d2: 25 },
+    { nama: 'Kemeja Oversized Cotton', harga: 200000, d1: 30, d2: 15 },
+  ];
+
+  const rupiah = (n) => 'Rp ' + Math.round(n).toLocaleString('id-ID');
+  const hargaSetelah = (harga, d1, d2) => harga * (1 - d1 / 100) * (1 - d2 / 100);
+
+  function hitung() {
+    const harga = Math.max(0, parseFloat($('hargaAwal').value) || 0);
+    const d1 = +$('diskonUtama').value;
+    const d2 = +$('diskonPlus').value;
+
+    const akhir = hargaSetelah(harga, d1, d2);
+    const hemat = harga - akhir;
+
+    $('lblD1').textContent = d1;
+    $('lblD2').textContent = d2;
+    $('hargaAkhir').textContent = rupiah(akhir);
+    $('hargaAsli').textContent = d1 || d2 ? rupiah(harga) : '';
+    $('setelahD1').textContent = rupiah(harga * (1 - d1 / 100));
+    $('totalHemat').textContent = rupiah(hemat);
+    $('persenHemat').textContent = (harga > 0 ? (hemat / harga) * 100 : 0)
+      .toLocaleString('id-ID', { maximumFractionDigits: 1 }) + '%';
+  }
+
+  function pakai(harga, d1, d2) {
+    if (harga !== undefined) $('hargaAwal').value = harga;
+    $('diskonUtama').value = d1;
+    $('diskonPlus').value = d2;
+    hitung();
+  }
+
+  PRESETS.forEach(([d1, d2]) => {
+    const b = document.createElement('button');
+    b.className = 'chip';
+    b.textContent = d1 + '% + ' + d2 + '%';
+    b.onclick = () => pakai(undefined, d1, d2);
+    $('chips').appendChild(b);
+  });
+
+  $('katalog').innerHTML = PRODUK.map((p, i) => `
+    <div class="product">
+      <div>
+        <div class="name">${p.nama}</div>
+        <span class="tag">${p.d1}% + ${p.d2}%</span>
+      </div>
+      <div class="prices">
+        <div class="was">${rupiah(p.harga)}</div>
+        <div class="now">${rupiah(hargaSetelah(p.harga, p.d1, p.d2))}</div>
+        <button data-i="${i}">Coba di kalkulator</button>
+      </div>
+    </div>`).join('');
+
+  $('katalog').addEventListener('click', (e) => {
+    const i = e.target.dataset.i;
+    if (i === undefined) return;
+    const p = PRODUK[i];
+    pakai(p.harga, p.d1, p.d2);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  ['hargaAwal', 'diskonUtama', 'diskonPlus'].forEach((id) => $(id).addEventListener('input', hitung));
+  hitung();
+</script>
+</body>
+</html>
